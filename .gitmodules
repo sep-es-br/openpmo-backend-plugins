@@ -1,0 +1,36 @@
+[submodule "sigef"]
+	path = sigef
+	url = https://github.com/sep-es-br/openpmo-plugin-sigef-goves
+	branch = main
+[submodule "sigefes"]
+	path = sigefes
+	url = https://github.com/sep-es-br/openpmo-plugin-sigef-goves
+	branch = main
+[submodule "agreement"]
+	path = agreement
+	url = https://github.com/sep-es-br/openpmo-plugin-agreement-goves
+	branch = main
+[submodule "user-identity"]
+	path = user-identity
+	url = https://github.com/sep-es-br/openpmo-plugin-user-a-identify-goves
+	branch = main
+[submodule "procurement"]
+	path = procurement
+	url = https://github.com/sep-es-br/openpmo-plugin-procurement-goves
+	branch = main
+[submodule "obligation"]
+	path = obligation
+	url = https://github.com/sep-es-br/openpmo-plugin-obligation-goves
+	branch = main
+[submodule "organization"]
+	path = organization
+	url = https://github.com/sep-es-br/organization-parser-goves
+	branch = main
+[submodule "edocs"]
+	path = edocs
+	url = https://github.com/sep-es-br/openpmo-plugin-edocs
+	branch = main
+[submodule "acesso-cidadao"]
+	path = acesso-cidadao
+	url = https://github.com/sep-es-br/acesso-cidadao-identity-parser
+	branch = main
