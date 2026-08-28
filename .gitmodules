@@ -1,7 +1,3 @@
-[submodule "sigef"]
-	path = sigef
-	url = https://github.com/sep-es-br/openpmo-plugin-sigef-goves
-	branch = main
 [submodule "sigefes"]
 	path = sigefes
 	url = https://github.com/sep-es-br/openpmo-plugin-sigef-goves
